@@ -1,2 +1,2 @@
 # DataAnalysis_Reports
-Data analysis reports. Projects made as part of improving the skills of using data analysis tools (Power BI desktop, SQL, Tableau, Python).
+Data analysis reports. Projects made as part of improving the skills of using data analysis tools.
